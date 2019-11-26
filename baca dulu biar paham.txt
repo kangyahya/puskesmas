@@ -1,0 +1,18 @@
+untuk mengubah configurasi database
+
+silahkan menuju ke folder === inc/config.php ===
+
+untuk mengedit tampilan silahkan menuju ke folder modules, masing-masing folder yang ada di modules merupakan satu kesatuan, penamaan file harus sama dengan nama folder yang ada di modules,
+misal folder pasien maka untuk penamaan yang ada didalamnya pasien.php, pasien_tambah.php, pasien_edit.php, pasien_hapus.php
+
+
+untuk login
+
+username : admin
+password : admin
+
+
+
+
+
+tetap semangat dan jangan menyerah .... Hwaiting !!!!!!
